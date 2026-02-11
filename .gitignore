@@ -1,0 +1,15 @@
+# Abaikan seluruh folder projek lama
+assets/projek/
+
+# Abaikan file sistem
+Thumbs.db
+.DS_Store
+ehthumbs.db
+Desktop.ini
+
+# Abaikan file konfigurasi editor
+.vscode/
+.idea/
+
+# Abaikan file lain yang tidak perlu
+gambaran
